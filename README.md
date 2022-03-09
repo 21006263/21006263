@@ -38,10 +38,10 @@ mi perfil de Github 😄
 
 <!-- link de programacion -->
 
-<h2>Habilidades<img src="./logo/skill.gif" width="96px"></h2>
+## Habilidades<img src="./logo/skill.gif" width="96px">
 
 
-<?xml version="1.0" encoding="UTF-8" standalone="no"?><!-- Generator: Gravit.io --><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" style="isolation:isolate" viewBox="0 0 150 150" width="150pt" height="150pt"><defs><clipPath id="_clipPath_nyVmrPhMj6MfkKRCT7IkpyQs9VNX1G3m"><rect width="150" height="150"/></clipPath></defs><g clip-path="url(#_clipPath_nyVmrPhMj6MfkKRCT7IkpyQs9VNX1G3m)"><circle vector-effect="non-scaling-stroke" cx="75" cy="75" r="65" fill="rgb(34,34,34)"/><path d=" M 107.691 47.403 L 93.208 40.434 C 91.53 39.626 89.525 39.967 88.209 41.284 L 60.473 66.587 L 48.393 57.416 C 47.269 56.563 45.696 56.633 44.652 57.583 L 40.776 61.107 C 40.165 61.662 39.817 62.449 39.816 63.274 C 39.816 64.1 40.163 64.887 40.773 65.443 L 51.249 75.001 L 40.773 84.559 C 40.163 85.115 39.816 85.903 39.816 86.728 C 39.817 87.554 40.165 88.341 40.776 88.896 L 44.655 92.417 C 45.699 93.367 47.272 93.437 48.396 92.584 L 60.476 83.413 L 88.212 108.716 C 89.527 110.033 91.531 110.374 93.208 109.566 L 107.697 102.597 C 109.219 101.862 110.185 100.322 110.184 98.633 L 110.184 51.367 C 110.184 49.677 109.215 48.136 107.691 47.403 L 107.691 47.403 Z  M 92.604 90.974 L 71.558 75.001 L 92.604 59.028 L 92.604 90.974 Z " fill="rgb(0,122,204)"/></g></svg>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><!-- Generator: Gravit.io --><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" style="isolation:isolate" viewBox="0 0 150 150" width="150pt" height="150pt"><circle vector-effect="non-scaling-stroke" cx="75" cy="75" r="65" fill="rgb(227,79,38)"/><path d=" M 45 40.714 L 105 40.714 L 99.543 102.323 L 74.934 109.286 L 50.466 102.32 L 45 40.714 Z  M 65.089 68.571 L 64.426 60.806 L 93.166 60.814 L 93.823 53.323 L 56.177 53.314 L 58.171 76.2 L 84.246 76.2 L 83.314 85.989 L 75 88.286 L 66.557 85.971 L 66.02 79.943 L 58.566 79.943 L 59.509 91.86 L 75 96.003 L 90.369 91.88 L 92.494 68.574 L 65.089 68.574 L 65.089 68.571 Z " fill="rgb(255,255,255)"/></svg>
 
 
 <!-- link de redesde sociales -->
