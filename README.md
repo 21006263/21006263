@@ -6,7 +6,7 @@
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ... -->
- # Hola Compañeros Desarrolladores here👋
+ # Hola Compañeros Desarrolladores 👋
 
 
 
@@ -38,7 +38,7 @@ mi perfil de Github 😄
 
 <!-- link de programacion -->
 
-<h2> Skills <img src="./skill.gif" width="96px"></h2>
+<h2>Habilidades<img src="./skill.gif" width="96px"></h2>
 
 
 
