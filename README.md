@@ -40,10 +40,10 @@ mi perfil de Github 😄
 
 ## Habilidades<img src="./logo/skill.gif" width="96px">
 ****
-### vscode react html5 css javascript
+### vscode  react   html5    css  javascript node redux sequelize SQL     git     github     ux-ui
 <img width="64" height="64" src="./logo/vscode.png" align=""/><img width="64" height="64" src="./logo/react.png" align=""/><img width="64" height="64" src="./logo/html5.png" align=""/><img width="64" height="64" src="./logo/css.png"
- align=""/><img width="64" height="64" src="./logo/javascript.png" align=""/><img width="112" height="112" src="./logo/node.png" align=""/><img width="100" height="100" src="./logo/redux.png" align=""/><img width="100" height="100" src="./logo/sequelize.png" align=""/>
- <img width="100" height="100" src="./logo/SQL.png" align=""/> <img width="100" height="100" src="./logo/git.png" align=""/> <img width="100" height="100" src="./logo/github.png" align=""/> <img width="100" height="100" src="./logo/ux-ui.png" align=""/>
+ align=""/><img width="64" height="64" src="./logo/javascript.png" align=""/><img width="64" height="64" src="./logo/node.png" align=""/><img width="64" height="64" src="./logo/redux.png" align=""/><img width="64" height="64" src="./logo/sequelize.png" align=""/>
+ <img width="64" height="64" src="./logo/SQL.png" align=""/> <img width="64" height="64" src="./logo/git.png" align=""/> <img width="64" height="64" src="./logo/github.png" align=""/> <img width="64" height="64" src="./logo/ux-ui.png" align=""/>
 
 <!-- <img width="112" height="112" src="./logo/bootstrap.png" align=""/> -->
 
