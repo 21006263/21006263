@@ -162,14 +162,5 @@ mi perfil de Github 😄
 
 <!-- link de redesde sociales -->
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/henrry_moreno?label=Henry_Moreno&logo=twitter&style=for-the-badge)](https://twitter.com/henrry_moreno)
-
-
-
-
-
-
-
-
 
 <!-- link de  -->
