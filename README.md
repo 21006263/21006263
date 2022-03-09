@@ -17,7 +17,7 @@
 ----
 </div>
 
-<img width="400" height="auto" src="./Henry.jpg" align="right"/>
+<img width="400" height="auto" src="./logo/Henry.jpg" align="right"/>
 <p align="justify">   
 Hola! Soy un desarrollador full-stack 
 que busca hacer sus primeros pasos en el munndo It,
