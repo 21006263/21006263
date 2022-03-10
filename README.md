@@ -13,8 +13,8 @@
 <div align="right">
 
 ## Henry Moreno
-----
-----
+---
+---
 </div>
 
 <img width="400" height="auto" src="./logo/Henry.jpg" align="right"/>
@@ -49,16 +49,10 @@ mi perfil de Github 😄
 
 ****
 ## Medios de contacto 👋
-[<img width= '64px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/>](https://www.linkedin.com/in/henry-moreno-gs/)
-<a href="https://api.whatsapp.com/send?phone=584145888298&text=Contacto" target="_blank"><img width="64" height="64" src="./logo/whatsapp.png"/></a>
+[<img width= '64px' height="64" align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/>](https://www.linkedin.com/in/henry-moreno-gs/)
+----
+<a href="https://api.whatsapp.com/send?phone=584145888298&text=Contacto" target="_blank">
+ <img width="64" height="64" src="./logo/whatsapp.png"/></a>
 
+****
 <!-- link de redesde sociales -->
-
-
-<!-- link de  -->
-
-
-
-
-
-<!-- link de  -->
