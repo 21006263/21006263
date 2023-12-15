@@ -6,7 +6,7 @@
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ... -->
- # Hola Compañeros Desarrolladores 👋
+ # Developer 👋
 
 
 
